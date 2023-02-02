@@ -1,1 +1,3 @@
-## My personal Config for nvim for windows.
+## My personal neovim's setup for windows.
+
+### To-do
